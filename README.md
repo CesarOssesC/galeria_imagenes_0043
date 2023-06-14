@@ -1,24 +1,17 @@
-# README
+Ejercicio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+En la página de destinos vacaciones del proyecto galeria_imagenes.
 
-Things you may want to cover:
+1- En el mismo controlador donde tenemos el método para la pagina destinos vacaciones, agregar 3 vistas,
+una para cada destino en específico. Esas vistas deberán contener una foto en grande del destino
+(pueden utilizar la misma foto provista por ADL) y algunos párrafos que hablen sobre el destino (pueden utilizar lorem).
 
-* Ruby version
 
-* System dependencies
+2- creen una barra de navegación que sea visible en todas las páginas que tiene hasta el momento en su proyecto.
+La barra de navegación debe permitir navegar entre las páginas principales de cada controlador.
 
-* Configuration
+3- Para poder acceder a la página con el detalle de cada destino de vacaciones, deben transformar la foto del 
+grupo de tarjeta de la página index de vacaciones en links que los lleven a cada uno de los destinos respectivamente.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+4- cada página de cada destino específico deberá tener un botón al final para poder volver a la página index
+de destino de vacaciones.
